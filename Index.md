@@ -7,7 +7,7 @@ Ce guide est créé pour vous permettre la mise-à-jour de la liste des membres 
 - 2 [via l'outil "Notion"](#Notion)
 - 2 [via le formulaire de demande](#Formulaire)
 - 3 [via le tableau (.csv) ou (.xlsx)](#Tableau)
-- 4 [contatc](#Contact)
+- 4 [contact](#Contact)
 
 ---
 ##Introduction
